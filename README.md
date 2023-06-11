@@ -1,6 +1,6 @@
 # website
  
-![image](https://github.com/FarisBahmidan/Electronic-shop/assets/135508625/3f7ded78-bdf3-4085-9460-7b270f743979)
-
-
-![image](https://github.com/FarisBahmidan/Electronic-shop/assets/135508625/ee948a5b-392e-4434-965d-bf0e3f627c38)
+![image](https://github.com/FarisBahmidan/website/assets/135508625/401d2e0e-5fa0-4a85-afb6-1754e9482220)
+![image](https://github.com/FarisBahmidan/website/assets/135508625/fe7b513b-f0a5-4ea4-8ac6-9e2fde401565)
+![image](https://github.com/FarisBahmidan/website/assets/135508625/d71542bc-94c5-48ec-a992-9cef3c40ddc3)
+![image](https://github.com/FarisBahmidan/website/assets/135508625/8431302b-00a9-48ab-8b9b-f5c0c78665e6)
